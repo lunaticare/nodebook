@@ -18,7 +18,7 @@ setup(
         'jupyter',
         'click',
         'cloudpickle',
-        'msgpack-python',
+        'msgpack',
         'pandas',
         'pytest-runner',
     ],
